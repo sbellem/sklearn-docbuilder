@@ -1,3 +1,8 @@
 base:
   '*':
-      - sklearn-docbuilder
+    - user
+    - git
+    - html
+    - scipy-stack
+    - ssh
+    - virtualenv
